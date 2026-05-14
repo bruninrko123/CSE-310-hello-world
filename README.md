@@ -7,7 +7,7 @@ This project was created so I learn how to create a github repo and create an ap
 It is a simple software. When run, it displays a "Hello world" message and asks for the user's name. Then, it greets the user
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Xdc8Rif7vBs)
 
 # Development Environment
 
